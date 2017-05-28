@@ -17,7 +17,7 @@
             <% _.forEach(theme.menu, function (value, menuName) { %>
             <li class="bold">
                 <% if (_.isObject(value)) { %>
-                <a class="collapsible-header waves-effect waves-teal"><%= menuName %> [<%= _.size(value) %> หัวข้อ]</a>
+                <a class="collapsible-header waves-effect waves-teal"><%= menuName %> <span class="badge"><%= _.size(value) %> หัวข้อ</span></a>
                 <div class="collapsible-body">
                     <ul>
                         <% _.forEach(value, function (url, topicName) { %>
