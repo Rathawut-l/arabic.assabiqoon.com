@@ -95,6 +95,11 @@ main {
     float: left;
 }
 
+.users-list2 .user-img img {
+    height: 50px;
+    width: 50px;
+}
+
 .users-list2 .user-info {
     margin-left: 60px;
 }
