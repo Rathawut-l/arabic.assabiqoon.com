@@ -3,13 +3,11 @@
         <!--   Icon Section   -->
         <div class="row">
             <div class="col s12 m9 l10">
-                <h1><%= post.title %></h1>
-                <hr>
-                <%- post.content %>
+                <%- page.content %>
             </div>
             <div class="col hide-on-small-only m3 l2">
                 <div class="pinned">
-                    <%- materialize_toc(post.content, { 'class': 'table-of-contents', list_number: false }) %>
+                    <%- materialize_toc(page.content, { 'class': 'table-of-contents', list_number: false }) %>
                 </div>
             </div>
         </div>
