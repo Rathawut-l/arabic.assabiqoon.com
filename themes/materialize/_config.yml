@@ -13,3 +13,22 @@ menu:
     ประโยคที่เริ่มต้นด้วยคำกริยา (جملة فعلية): /arabic/basic/verbal-sentence/
   ภาษาอาหรับ (อื่น ๆ):
     รูปแบบคำนามที่บ่งบอกถึงความเล็ก: /arabic/reference/the-diminutive/
+
+facebook:
+  id: AssabiqoonPublisher
+  name: สำนักพิมพ์ อัซซาบิกูน
+  coverImg: https://scontent.fbkk12-2.fna.fbcdn.net/v/t31.0-8/12615643_10207139131791165_4113327430775424807_o.jpg?oh=e0f710007a3c4765e4d7c5a8478c90a7&oe=59ABFEF3
+
+facebooks:
+  - id: 1668204846
+    name: Ilyas Lertsuksakda
+    desc: ผู้รับผิดชอบเนื้อหา
+  - id: 100005837825984
+    name: Sharif Wongsangiam
+    desc: อาจารย์ที่ปรึกษา
+  - id: 100001570233327
+    name: อามีน ลอนา
+    desc: อาจารย์ที่ปรึกษา
+  - id: AssabiqoonPublisher
+    name: สำนักพิมพ์ อัซซาบิกูน
+    desc: เฟสบุ๊คเพจ
