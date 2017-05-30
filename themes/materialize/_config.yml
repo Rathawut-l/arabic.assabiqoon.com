@@ -1,7 +1,15 @@
 menu:
   หน้าแรก: /
   ภาษาอาหรับ (ระดับที่ 1):
-    เกริ่นนำสู่วิชาภาษาอาหรับ: /arabic/basic/introduction-to-arabic/
-    อิอ์รอบ (การเปลี่ยนส่วนท้ายของคำ): /arabic/basic/i'rab/
-#  ภาษาอาหรับ (อื่น ๆ):
-#    รูปแบบคำนามที่บ่งบอกถึงความเล็ก: /arabic/reference/the-diminutive/
+    เกริ่นนำสู่วิชาภาษาอาหรับ (اللغة العربية): /arabic/basic/introduction-to-arabic/
+    'อิอ์รอบ: การเปลี่ยนส่วนท้ายของคำ (إعراب)': /arabic/basic/i'rab/
+    คำสรรพนาม (ضمير): /arabic/basic/pronoun/
+    คำฮัรฟ์ (حرف): /arabic/basic/particle/
+    พหูพจน์แตกรูป (جمع تكسير): /arabic/basic/broken-plural/
+    การประกอบคำ (مركب): /arabic/basic/word-construction/
+    ประโยคที่เริ่มต้นด้วยคำนาม 1 (جملة إسمية ١): /arabic/basic/nominal-sentence-1/
+    ประโยคที่เริ่มต้นด้วยคำนาม 2 (جملة إسمية ٢): /arabic/basic/nominal-sentence-2/
+    เกริ่นนำสู่คำกริยา (فعل): /arabic/basic/introduction-to-verb/
+    ประโยคที่เริ่มต้นด้วยคำกริยา (جملة فعلية): /arabic/basic/verbal-sentence/
+  ภาษาอาหรับ (อื่น ๆ):
+    รูปแบบคำนามที่บ่งบอกถึงความเล็ก: /arabic/reference/the-diminutive/
